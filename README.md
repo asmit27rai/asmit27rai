@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asmit Kumar Rai</h1>
 <h3 align="center">A Passionate Full-Stack Developer From India</h3>
 <img align="right" alt="coding" width"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
-- 🔭 I’m currently working on Mern Stack
+- 🔭 I’m currently working on Mern Stack,Django,Next.js
 
-- 🌱 I’m currently learning **Django,Next.js**
+- 🌱 I’m currently learning **Go Language And Rust**
 
 - 💬 Ask me about **Mern,Machine Learning**
 
