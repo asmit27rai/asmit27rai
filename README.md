@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 - 🔭 I’m currently working on Mern Stack,Django,Next.js
 
-- 🌱 I’m currently learning **Web3 With Solidity**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **Development**
 
